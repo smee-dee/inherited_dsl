@@ -21,7 +21,7 @@ module DSL
         @dsl_items ||= Items.new
       end
 
-      def dsl_items
+      def dsl_item_values
         self.class.dsl_items.values
       end
     end
