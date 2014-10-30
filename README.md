@@ -1,7 +1,7 @@
 inherited_dsl
 =============
 
-This is a little experiment, how to implement a DSL through a class macro, that supports inheritance.
+This is a little experiment, how to implement a DSL through a class macro that supports inheritance.
 
 The Problem: 
 ====
